@@ -5,5 +5,5 @@ This site showcases who I am, the projects I've worked on, and my goals as a Com
 ## Contact Me
 
 - **Email:** nabihastorm@gmail.com
-- **GitHub:** nabihashahid
+- **GitHub:** [nabihashahid](https://github.com/nabihashahid)
 - **LinkedIn:** www.linkedin.com/in/nabihashahid 
