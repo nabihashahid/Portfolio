@@ -1,8 +1,7 @@
 # Portfolio
-# Nabiha Shahid's Personal Portfolio
 
-Hello, This is Nabiha Shahid
-This site showcases who I am, the projects I've worked on, and my goals as a Computer Science student interested in cybersecurity.
+Hello, Welcome to Nabiha Shahid's Portfolio
+This site showcases who I am, the projects I've worked on, and my goals as a Computer Science student pursuing cybersecurity.
 ## Contact Me
 
 - **Email:** nabihastorm@gmail.com
